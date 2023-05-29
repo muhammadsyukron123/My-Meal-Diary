@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyMealDiary</string>
+    <string name="app_name">Nutriary</string>
 
     <!-- Shared Preferences -->
     <string name="api_preferences_key">API_KEY</string>
@@ -11,7 +11,7 @@
     <string name="system_theme_preference_value">SYSTEM_THEME</string>
 
     <!-- Fragment Labels -->
-    <string name="diary">My Meal Diary</string>
+    <string name="diary">Nutriary</string>
     <string name="bmr_calculator">BMR Calculator</string>
     <string name="daily_nutrition">Total Daily Nutrition</string>
     <string name="settings">Settings</string>
@@ -54,16 +54,15 @@
     <string name="item_required">Required</string>
 
     <string name="name_syukron">Muhammad Syukron Abdillah</string>
-    <string name="name_dzikri">M. Dzikri Alfarisyi</string>
 
-    <string name="title_onboarding_1">Welcome to My Meal Diary App !</string>
+    <string name="title_onboarding_1">Welcome to Nutriary App !</string>
     <string name="description_onboarding_1">Here is an apps to help you on your diet by count evey calorie and nutrition for every single meals you wanna eat ! :D</string>
 
     <string name="title_onboarding_2">Calculate your healthy calorie need !</string>
     <string name="description_onboarding_2">Calculate your Basal Metabolic Rate to count your maximum calorie needed for a day based on your body condition !</string>
 
     <string name="title_onboarding_3">Find the Nutrition</string>
-    <string name="description_onboarding_3">Find the nutrition fact for every meals, literally everything !</string>
+    <string name="description_onboarding_3">Find the nutrition fact for every meals, literally everything by searching or capture your meal :D</string>
 
     <string name="skip">Skip</string>
     <string name="next">next</string>

@@ -3,7 +3,7 @@
     <item
         android:id="@+id/trackerFragment"
         android:icon="@drawable/ic_diary"
-        android:title="My Meal Diary" />
+        android:title="My Nutrition and Calorie" />
     <item
         android:id="@+id/calculatorFragment"
         android:icon="@drawable/ic_calculate"

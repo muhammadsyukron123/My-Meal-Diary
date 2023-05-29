@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/trackerFragment"
-        android:name="com.syukron.mymealdiary.ui.fragment.TrackerFragment"
+        android:name="com.syukron.nutriary.ui.fragment.TrackerFragment"
         android:label="@string/diary"
         tools:layout="@layout/fragment_tracker">
         <action
@@ -31,7 +31,7 @@
     </fragment>
     <fragment
         android:id="@+id/foodFragment"
-        android:name="com.syukron.mymealdiary.ui.fragment.FoodFragment"
+        android:name="com.syukron.nutriary.ui.fragment.FoodFragment"
         android:label="{foodName}"
         tools:layout="@layout/food_nutrient_view">
         <action
@@ -46,7 +46,7 @@
     </fragment>
     <fragment
         android:id="@+id/searchFragment"
-        android:name="com.syukron.mymealdiary.ui.fragment.SearchFragment"
+        android:name="com.syukron.nutriary.ui.fragment.SearchFragment"
         android:label="@string/search_food"
         tools:layout="@layout/fragment_search">
         <action
@@ -60,7 +60,7 @@
     </fragment>
     <fragment
         android:id="@+id/nutrientFragment"
-        android:name="com.syukron.mymealdiary.ui.fragment.NutrientFragment"
+        android:name="com.syukron.nutriary.ui.fragment.NutrientFragment"
         android:label="@string/daily_nutrition"
         tools:layout="@layout/food_nutrient_view">
         <action
@@ -75,7 +75,7 @@
     </fragment>
     <fragment
         android:id="@+id/settingsFragment"
-        android:name="com.syukron.mymealdiary.ui.fragment.SettingsFragment"
+        android:name="com.syukron.nutriary.ui.fragment.SettingsFragment"
         android:label="@string/settings"
         tools:layout="@xml/preferences">
         <action
@@ -86,7 +86,7 @@
     </fragment>
     <fragment
         android:id="@+id/calculatorFragment"
-        android:name="com.syukron.mymealdiary.ui.fragment.CalculatorFragment"
+        android:name="com.syukron.nutriary.ui.fragment.CalculatorFragment"
         android:label="@string/bmr_calculator"
         tools:layout="@layout/fragment_calculator">
         <action
@@ -95,7 +95,7 @@
     </fragment>
     <fragment
         android:id="@+id/aboutFragment2"
-        android:name="com.syukron.mymealdiary.ui.fragment.AboutFragment"
+        android:name="com.syukron.nutriary.ui.fragment.AboutFragment"
         android:label="@string/about"
         tools:layout="@layout/fragment_about">
         <action

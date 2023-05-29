@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.syukron.mymealdiary.ui.widget.NutritionView
+<com.syukron.nutriary.ui.widget.NutritionView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nutrition"
